@@ -58,7 +58,7 @@ His research interests lie in automation of chemical processes (robots!) as well
 
 ![Ethan Denis](../assets/people/EJD.jpg){ .member-photo }
 
-###Ethan Denis
+### Ethan Denis
 
 *Master of Chemistry (2026)*
 
